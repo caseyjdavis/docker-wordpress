@@ -23,4 +23,4 @@ docker-compose
 5. Monitor using docker-compose
     docker-compose ps
 
-![Screenshot of docker process monitor on my personal desktop.](docker-montior.png)
+![Screenshot of docker process monitor on my personal desktop.](docker-monitor.png)
