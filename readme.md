@@ -11,8 +11,8 @@ Installs
 ![Screenshot of install page on my personal desktop.](wordpress-install.png)
 
 Dependencies
-docker
-docker-compose
+- docker
+- docker-compose
 
 1. Install my cloning repository to your workstation
 2. Change to the directory
